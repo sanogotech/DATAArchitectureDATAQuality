@@ -9,6 +9,9 @@ DATA Architecture DATA Quality
 
 Dans un monde de plus en plus axé sur les données, garantir leur qualité est devenu un enjeu stratégique pour les entreprises. Une mauvaise qualité des données peut entraîner des décisions erronées, des inefficacités opérationnelles et des risques de non-conformité réglementaire. Les organisations doivent relever plusieurs défis pour mettre en place une architecture robuste intégrant des processus de validation et de surveillance de la qualité des données.
 
+
+![ Data Architecture](https://github.com/sanogotech/DATAArchitectureDATAQuality/blob/main/images/DataArchitectureWithSataQuality.gif)
+
 ---
 
 ### **Enjeux**
@@ -77,7 +80,6 @@ Dans un monde de plus en plus axé sur les données, garantir leur qualité est 
 3. Respecter à 100 % les normes réglementaires en matière de gestion des données.
 4. Maintenir un taux d'intégrité des données supérieur à 98 %.
 
-![ Data Architecture](https://github.com/sanogotech/DATAArchitectureDATAQuality/blob/main/images/DataArchitectureWithSataQuality.gif)
 
 ---
 
