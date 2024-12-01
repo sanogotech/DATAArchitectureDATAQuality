@@ -1,7 +1,7 @@
 # DATAArchitectureDATAQuality
 DATA Architecture DATA Quality
 
-### **Titre : Assurer la Qualité des Données dans une Architecture de Données Moderne**
+# ** Assurer la Qualité des Données dans une Architecture de Données Moderne**
 
 ---
 
@@ -26,6 +26,7 @@ Dans un monde de plus en plus axé sur les données, garantir leur qualité est 
 2. Surveillance en temps réel des pipelines de données (data pipelines).
 3. Détection proactive des anomalies et des erreurs.
 4. Collaboration entre équipes métier et technique pour définir des critères de qualité.
+
 
 ---
 
@@ -75,6 +76,8 @@ Dans un monde de plus en plus axé sur les données, garantir leur qualité est 
 2. Réduire de 50 % le temps nécessaire pour détecter et corriger les erreurs.
 3. Respecter à 100 % les normes réglementaires en matière de gestion des données.
 4. Maintenir un taux d'intégrité des données supérieur à 98 %.
+
+![ Data Architecture](https://github.com/sanogotech/DATAArchitectureDATAQuality/blob/main/images/DataArchitectureWithSataQuality.gif)
 
 ---
 
