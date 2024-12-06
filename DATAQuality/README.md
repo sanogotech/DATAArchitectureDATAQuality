@@ -114,8 +114,6 @@ La gestion de la qualité des données est essentielle pour garantir la performa
 
 -------------
 
-Voici une présentation des niveaux de maturité de la qualité des données dans une entreprise, classés de 0 à 5, avec une description pour chaque niveau :
-
 ---
 
 ### **Niveau 0 : Initial (Absence de gestion de la qualité des données)**
