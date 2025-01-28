@@ -4,6 +4,8 @@ In today's data-driven world, mastering key data concepts is essential for profe
 
 Here, we will explore six crucial data concepts that every professional should master, along with their key features and applications:
 
+![ Data Architecture](https://github.com/sanogotech/DATAArchitectureDATAQuality/blob/main/images/DataConceptsProcess.gif)
+
 ---
 
 ### 1. **Data Warehouse**
