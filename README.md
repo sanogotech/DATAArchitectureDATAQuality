@@ -30,6 +30,9 @@ Dans un monde de plus en plus axé sur les données, garantir leur qualité est 
 3. Détection proactive des anomalies et des erreurs.
 4. Collaboration entre équipes métier et technique pour définir des critères de qualité.
 
+## DATA Concepts et Process
+
+![ Data Concepts et Process ](https://github.com/sanogotech/DATAArchitectureDATAQuality/blob/main/images/DataArchitectureWithSataQuality.gif)
 
 ---
 
