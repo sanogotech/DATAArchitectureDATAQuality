@@ -64,8 +64,7 @@ En mettant en œuvre ces pratiques et en surmontant les défis associés, une en
 
 --------------------------------
 
-### Titre :  
-**Adopter une Stratégie Data-Driven : Maximiser la Performance à Travers les Données - Enjeux, Modèles, Architecture et Bonnes Pratiques**
+## **Adopter une Stratégie Data-Driven : Maximiser la Performance à Travers les Données - Enjeux, Modèles, Architecture et Bonnes Pratiques**
 
 ### Introduction :
 
