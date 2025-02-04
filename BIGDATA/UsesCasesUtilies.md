@@ -5,9 +5,6 @@ Dans le cadre du déploiement d'une plateforme Big Data pour un grand groupe afr
 
 ---
 
-Je vais structurer le macro-planning sous forme de tableau pour une meilleure lisibilité.  
-
----
 
 ## **Macro-Planning de Mise en Place d'une Plateforme Big Data**  
 
