@@ -5,6 +5,43 @@ Dans le cadre du déploiement d'une plateforme Big Data pour un grand groupe afr
 
 ---
 
+Voici un diagramme de Gantt en Mermaid pour votre macro-planning de mise en place de la plateforme Big Data :  
+
+```mermaid
+gantt
+    title Macro-Planning de Mise en Place d'une Plateforme Big Data
+    dateFormat  YYYY-MM-DD
+    section Phase de Préparation
+    Validation des études et analyse des besoins  :done, prep1, 2024-01-01, 2024-01-14
+    Finalisation de l'architecture technique      :done, prep2, 2024-01-15, 2024-01-21
+    Sélection et recrutement des équipes          :active, prep3, 2024-01-22, 2024-01-28
+    Mise en place des environnements              :active, prep4, 2024-01-29, 2024-02-04
+    
+    section Phase de Conception et Développement
+    Installation des composants Big Data          :active, dev1, 2024-02-05, 2024-03-15
+    Développement des processus ETL               :active, dev2, 2024-03-16, 2024-04-15
+    Mise en place de la gestion des métadonnées   :active, dev3, 2024-04-16, 2024-05-15
+    Tests d'intégration et interface utilisateur  :active, dev4, 2024-05-16, 2024-06-30
+    
+    section Phase de Lancement du Projet Pilote
+    Sélection du cas d’usage                      :crit, pilot1, 2024-07-01, 2024-07-15
+    Intégration des données réelles               :crit, pilot2, 2024-07-16, 2024-08-15
+    Déploiement du projet pilote                  :crit, pilot3, 2024-08-16, 2024-09-15
+    Suivi des performances et ajustements         :crit, pilot4, 2024-09-16, 2024-09-30
+    
+    section Phase d’Optimisation et Extension
+    Amélioration des algorithmes et processus     :opt1, 2024-10-01, 2024-11-15
+    Extension de la plateforme                    :opt2, 2024-11-16, 2024-12-15
+    Mise en place de la gouvernance finale        :opt3, 2024-12-16, 2024-12-31
+    
+    section Gouvernance Continue
+    Gestion des données et conformité             :ongoing, gov1, 2024-01-01, 2024-12-31
+    Suivi des performances et formation           :ongoing, gov2, 2024-01-01, 2024-12-31
+```
+
+
+---
+
 ### **1. Phase de Préparation (0-2 mois)**  
 **Objectif :** Finaliser l’étude, définir l’architecture globale et préparer les ressources nécessaires.  
 
