@@ -5,39 +5,23 @@ Dans le cadre du déploiement d'une plateforme Big Data pour un grand groupe afr
 
 ---
 
-Voici un diagramme de Gantt en Mermaid pour votre macro-planning de mise en place de la plateforme Big Data :  
+Je vais structurer le macro-planning sous forme de tableau pour une meilleure lisibilité.  
 
-```mermaid
-gantt
-    title Macro-Planning de Mise en Place d'une Plateforme Big Data
-    dateFormat  YYYY-MM-DD
-    section Phase de Préparation
-    Validation des études et analyse des besoins  :done, prep1, 2024-01-01, 2024-01-14
-    Finalisation de l'architecture technique      :done, prep2, 2024-01-15, 2024-01-21
-    Sélection et recrutement des équipes          :active, prep3, 2024-01-22, 2024-01-28
-    Mise en place des environnements              :active, prep4, 2024-01-29, 2024-02-04
-    
-    section Phase de Conception et Développement
-    Installation des composants Big Data          :active, dev1, 2024-02-05, 2024-03-15
-    Développement des processus ETL               :active, dev2, 2024-03-16, 2024-04-15
-    Mise en place de la gestion des métadonnées   :active, dev3, 2024-04-16, 2024-05-15
-    Tests d'intégration et interface utilisateur  :active, dev4, 2024-05-16, 2024-06-30
-    
-    section Phase de Lancement du Projet Pilote
-    Sélection du cas d’usage                      :crit, pilot1, 2024-07-01, 2024-07-15
-    Intégration des données réelles               :crit, pilot2, 2024-07-16, 2024-08-15
-    Déploiement du projet pilote                  :crit, pilot3, 2024-08-16, 2024-09-15
-    Suivi des performances et ajustements         :crit, pilot4, 2024-09-16, 2024-09-30
-    
-    section Phase d’Optimisation et Extension
-    Amélioration des algorithmes et processus     :opt1, 2024-10-01, 2024-11-15
-    Extension de la plateforme                    :opt2, 2024-11-16, 2024-12-15
-    Mise en place de la gouvernance finale        :opt3, 2024-12-16, 2024-12-31
-    
-    section Gouvernance Continue
-    Gestion des données et conformité             :ongoing, gov1, 2024-01-01, 2024-12-31
-    Suivi des performances et formation           :ongoing, gov2, 2024-01-01, 2024-12-31
-```
+---
+
+## **Macro-Planning de Mise en Place d'une Plateforme Big Data**  
+
+| Phase | Tâches principales | Durée | Livrables |
+|--------|------------------|-------|-----------|
+| **Phase de Préparation** | <ul><li>Validation des études et analyse des besoins</li><li>Finalisation de l'architecture technique</li><li>Sélection et recrutement des équipes</li><li>Mise en place des environnements de développement et de test</li></ul> | 0 - 2 mois | <ul><li>Architecture validée</li><li>Plan de gestion des ressources</li><li>Comité de gouvernance formé</li></ul> |
+| **Phase de Conception et Développement** | <ul><li>Installation des composants Big Data (Hadoop, Spark, Kafka...)</li><li>Mise en place des outils de gestion des données</li><li>Développement des processus ETL</li><li>Mise en place des pipelines de traitement et métadonnées</li><li>Tests d'intégration et mise en place des dashboards</li></ul> | 2 - 6 mois | <ul><li>Plateforme installée et configurée</li><li>Pipeline de données opérationnel</li><li>Interfaces et dashboards fonctionnels</li></ul> |
+| **Phase de Lancement du Projet Pilote** | <ul><li>Sélection du cas d’usage pilote (ex : prévision de la consommation)</li><li>Intégration des données réelles (capteurs IoT, compteurs intelligents...)</li><li>Déploiement du projet pilote</li><li>Suivi des performances et ajustements</li><li>Formation des utilisateurs finaux</li></ul> | 6 - 8 mois | <ul><li>Projet pilote déployé</li><li>Rapport d’analyse des résultats</li><li>Formation des équipes internes</li></ul> |
+| **Phase d’Optimisation et Extension** | <ul><li>Amélioration des algorithmes et des processus</li><li>Optimisation des ressources et réduction des coûts</li><li>Extension à d'autres secteurs et régions</li><li>Mise en place de la gouvernance finale</li></ul> | 9 - 12 mois | <ul><li>Plateforme optimisée et scalable</li><li>Déploiement étendu</li><li>Gouvernance opérationnelle</li></ul> |
+| **Gouvernance Continue** | <ul><li>Gestion des accès et conformité</li><li>Suivi des performances et gestion des risques</li><li>Formation continue des équipes</li></ul> | Tout au long du projet | <ul><li>Politiques de gouvernance des données</li><li>Processus de conformité</li><li>Formation des équipes</li></ul> |
+
+---
+
+
 
 ---
 
