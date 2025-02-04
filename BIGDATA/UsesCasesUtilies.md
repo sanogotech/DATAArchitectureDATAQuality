@@ -39,7 +39,6 @@ gantt
     Suivi des performances et formation           :ongoing, gov2, 2024-01-01, 2024-12-31
 ```
 
-
 ---
 
 ### **1. Phase de Préparation (0-2 mois)**  
